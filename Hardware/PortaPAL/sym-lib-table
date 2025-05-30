@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lib")(type "KiCad")(uri "C:/Users/Jorge/Documents/GitHub/PortaPAL/Hardware/Library/lib.kicad_sym")(options "")(descr ""))
+)
